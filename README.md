@@ -26,6 +26,15 @@ https://www.linkedin.com/in/jwilbur
 
 --------------
 
+under development, include as possible:
+Markov chains
+SVM (Support Vector Machine)
+KNN (K-Nearest Neighbors)
+Naïve Bayes
+Decision Trees
+
+--------------
+
 Thanks for your attention!
 
 ~ 🅦🅘🅛🅑🅤🅡 ~
