@@ -10,7 +10,7 @@ Any questions, just contact me:
 
 https://github.com/jhowilbur
 
-https://www.linkedin.com/in/jwilbur
+https://www.linkedin.com/in/wilbur-dev/
 
 --------------
 
@@ -27,11 +27,11 @@ https://www.linkedin.com/in/jwilbur
 --------------
 
 under development, include as possible:
-Markov chains
-SVM (Support Vector Machine)
-KNN (K-Nearest Neighbors)
-Naïve Bayes
-Decision Trees
+- Markov chains
+- SVM (Support Vector Machine)
+- KNN (K-Nearest Neighbors)
+- Naïve Bayes
+- Decision Trees
 
 --------------
 
@@ -39,6 +39,6 @@ Thanks for your attention!
 
 ~ 🅦🅘🅛🅑🅤🅡 ~
 
-https://github.com/jhowilbur
+https://www.linkedin.com/in/wilbur-dev/
 
 https://www.linkedin.com/in/jwilbur
