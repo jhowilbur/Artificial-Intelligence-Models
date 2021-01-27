@@ -40,5 +40,3 @@ Thanks for your attention!
 ~ 🅦🅘🅛🅑🅤🅡 ~
 
 https://www.linkedin.com/in/wilbur-dev/
-
-https://www.linkedin.com/in/jwilbur
